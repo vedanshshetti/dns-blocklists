@@ -1,0 +1,25 @@
+# Google
+googletagmanager.com
+googletagservices.com
+googlesyndication.com
+google-analytics.com
+admob.com
+adservice.google.com
+googleads.com
+2mdn.net
+urchin.com
+adsense.com
+adsense.google.com
+googleadservices.com
+doubleclick.net
+youtube-nocookie.com
+
+# Chinese
+58.com
+
+# Samsung
+samsungcloudplatform.com
+samsungqbe.com
+
+# Other
+2o7.net
